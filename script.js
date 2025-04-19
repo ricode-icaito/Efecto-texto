@@ -1,6 +1,23 @@
 const typed = new Typed('.typed', {
 	strings: [
 		'<i class="programador">Pagina web</i>',
+		'<i class="programador">Desarrollador</i>',
+		'<i class="programador">Diseño web</i>',
+		'<i class="programador">Desarrollador web</i>',
+		'<i class="programador">Desarrollador Frontend</i>',
+		'<i class="programador">Desarrollador Backend</i>',
+		'<i class="programador">Desarrollador Fullstack</i>',
+		'<i class="programador">Desarrollador de aplicaciones</i>',
+		'<i class="programador">Desarrollador de software</i>',
+		'<i class="programador">Desarrollador de videojuegos</i>',
+		'<i class="programador">Desarrollador de aplicaciones moviles</i>',
+		'<i class="programador">Desarrollador de aplicaciones web</i>',
+		'<i class="programador">Desarrollador de aplicaciones de escritorio</i>',
+		'<i class="programador">Desarrollador de aplicaciones de realidad aumentada</i>',
+		'<i class="programador">Desarrollador de aplicaciones de realidad virtual</i>',
+		'<i class="programador">Desarrollador de aplicaciones de inteligencia artificial</i>',
+		'<i class="programador">Desarrollador de aplicaciones de machine learning</i>',
+		'<i class="programador">Desarrollador de aplicaciones de deep learning</i>',
 		'<i class="programador">Blog</i>',
 		'<i class="programador">Hostin</i>',
 		'<i class="programador">Dominio</i>'
